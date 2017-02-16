@@ -92,3 +92,6 @@ sorted(moto.keys())
 
 set() = iterates a list,each item in the set must be unique
 set(moto.values())
+
+http://stackoverflow.com/questions/4308610/how-to-ignore-certain-files-in-git 
+https://chatbotslife.com/create-a-facebook-messenger-bot-with-ruby-on-rails-4ffd8b851135#.5k2dfv60s
