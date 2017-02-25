@@ -3,4 +3,4 @@ def describe_city(city_name, country = 'Phillippines'):
 
 describe_city('cebu')
 describe_city(city_name='mandaue')
-describe_city(g'rome', country='italy')
+describe_city('rome', country='italy')
