@@ -1,0 +1,10 @@
+# OS #
+.DS_Store
+.DS_Store?
+
+# CACHE #
+.idea
+__pycache__
+
+# Project Folder
+Project_Exercises
